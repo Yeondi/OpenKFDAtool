@@ -61,9 +61,9 @@ python custom.py
 
 | 파일명 | 설명 |
 |--------|------|
-| `food_data.json` | 수집된 전체 영양소 데이터 |
-| `food_name_to_num_map.json` | 음식명 ↔ 식품 코드 매핑 |
-| `remapped_food_database.json` | (옵션) 새로운 코드 기준으로 정제된 매핑 |
+| `food_data.json` | 수집된 전체 영양소 데이터 | 예시
+| `food_name_to_num_map.json` | 음식명 ↔ 식품 코드 매핑 | 예시
+| `remapped_food_database.json` | (옵션) 새로운 코드 기준으로 정제된 매핑 | 예시
 | `nutritionData` (Firebase 컬렉션) | 영양정보 업로드 대상 |
 | `nutritionCsvData` (Firebase 컬렉션) | CSV/엑셀 업로드 대상 |
 
